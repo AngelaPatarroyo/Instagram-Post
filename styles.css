@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+.headline {
+    display: flex;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+
+}
+.headline i {
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+
+.mainbox {
+    height:700px;
+    width: 500px;
+    margin-top:50px;
+    margin-left: 500px;
+    background-color:white;
+    
+    
+}
+
+.text {
+    
+    width: 90%;
+    word-spacing: 300px;
+    margin-left: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.icons {
+    display: flex;
+    letter-spacing: 8px;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+.icons i + i + i {
+    letter-spacing: 350px;
+}
+
+.photo {
+    background-image: url(fondo.png);
+    height: 400px;
+    width: 500px;
+    background-size: cover;
+}
+
+.icons {
+    margin-top: 0px;
+}
+
+.likes {
+    margin-left: 15px;
+    margin-top: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bigtext p {
+    margin-left: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.body {
+    background-color: black;
+}
